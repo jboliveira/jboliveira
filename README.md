@@ -13,15 +13,14 @@ I very much enjoy reading/viewing things about technology and gastronomy. After 
 
 ### ⚙️ &nbsp;GitHub Stats
 
-![Jader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jboliveira&show_icons=true&theme=react&hide=["stars"])
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboliveira&layout=compact&theme=react)
 
-### 😜 &nbsp;Here's a Joke for you
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![Jader's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jboliveira&show_icons=true&theme=react&hide=["stars"])
 
 -----
+
 Credits: [Jader Oliveira](https://github.com/jboliveira)
+
 Last Edited on: `12/March/2021`
 
 <!--
