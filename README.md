@@ -38,12 +38,13 @@ Passionate **Power Platform Tech Lead** with over **17 years of experience** in 
 
 ## 🛠️ Tech Stack
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=azure&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=azure,bash,cs,css,cypress,docker,dotnet,git,github,html,js,kubernetes,mongodb,postman,powershell,vscode&perline=16)](https://skillicons.dev)
+
 ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft-powerapps&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+... and much more.
 
 ---
 
