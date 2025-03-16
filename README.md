@@ -12,13 +12,13 @@ Passionate **Power Platform Tech Lead** with over **17 years of experience** in 
 
 🚀 Microsoft Power Champion Europe
 
-🤓 Career and Business Coach
+🎯 Career and Business Coach
 
 ---
 
 ## 🎤 Speaker & Community Engagement  
 
-💡 I love **sharing knowledge** and **inspiring others**. I frequently speak at **ABN AMRO Bank (NL) events and conferences**, primarily discussing **Power Platform**. Now, I'm **thrilled to expand my reach and embark on my public speaking journey!** 
+🤓 I love **sharing knowledge** and **inspiring others**. I frequently speak at **ABN AMRO Bank (NL) events and conferences**, primarily discussing **Power Platform**. Now, I'm **thrilled to expand my reach and embark on my public speaking journey!** 
 
 🎙️ After years of hands-on experience, I’ve decided to **share my insights with the broader tech community**, helping professionals and organizations leverage **Power Platform, automation, and cloud solutions** to build **smarter and more efficient systems**.  
 
