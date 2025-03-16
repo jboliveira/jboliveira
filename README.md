@@ -1,20 +1,62 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Jader Oliveira, enthusiastic developer with +17 years from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Bilac, Brazil</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197441.png" width="13"/> <b>Utrecht, the Netherlands</b>. </p>
-<h3>Things I work with</h3>
-<p>
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-9D00FF?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
-<h3>Where to find me</h3>
-<p>
-    <a href="https://github.com/jboliveira" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-    <a href="https://www.linkedin.com/in/jaderbuenoliveira" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Jader Oliveira
 
------
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaderbuenoliveira/)
+[![Sessionize](https://img.shields.io/badge/-Sessionize-orange?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/jader-bueno-oliveira/)
+[![Instagram](https://img.shields.io/badge/-Instagram-aa2cc0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jbuenoliveira/)
 
-Credits: [Jader Oliveira](https://github.com/jboliveira)
+Passionate **Power Platform Tech Lead** with over **17 years of experience** in software development, cloud solutions, and enterprise applications. I specialize in **Power Platform, Dynamics CRM, Azure, and DevOps**, helping teams build smarter, scalable solutions.
 
-Last Edited on: `09/March/2025`
+💡 I believe in **continuous learning** and sharing knowledge, inspiring others in the tech community. Let’s build **smarter solutions together!**
+
+📍 From <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> **Bilac, Brazil**, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197441.png" width="13"/> **Utrecht, the Netherlands**
+
+🚀 Microsoft Power Champion Europe
+
+🤓 Career and Business Coach
+
+---
+
+## 🎤 Speaker & Community Engagement  
+
+💡 I love **sharing knowledge** and **inspiring others**. I frequently speak at **ABN AMRO Bank (NL) events and conferences**, primarily discussing **Power Platform**. Now, I'm **thrilled to expand my reach and embark on my public speaking journey!** 
+
+🎙️ After years of hands-on experience, I’ve decided to **share my insights with the broader tech community**, helping professionals and organizations leverage **Power Platform, automation, and cloud solutions** to build **smarter and more efficient systems**.  
+
+📅 **Upcoming Talks & Events**:  
+
+| Date | Event | Title | Location | Language |
+|------|-------|-------|----------|:--------:|
+|31/03/2024 | ABN AMRO DevCon 2025 - Back to the Future | Power Up Your DevOps - Power Platform & Azure DevOps in Action | Amsterdam, the Netherlands | en-US |
+
+🔜 **Stay tuned!** More details coming soon...  
+
+💡 If you're organizing an event and looking for a speaker, let's connect!  
+
+[![Sessionize](https://img.shields.io/badge/-Check%20My%20Speaker%20Profile-orange?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/jader-bueno-oliveira/)  
+
+---
+
+## 🛠️ Tech Stack
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=azure&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft-powerapps&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🔥 Fun Fact  
+Did you know? **I began my journey in tech at the age of 10, and my passion for learning and creating innovative solutions has only grown stronger since then!**  
+
+---
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jboliveira&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jboliveira&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+Last Edited on: `16/March/2025`
