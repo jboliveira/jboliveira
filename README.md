@@ -38,11 +38,11 @@ Passionate **Power Platform Tech Lead** with over **17 years of experience** in 
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=azure,bash,cs,css,cypress,docker,dotnet,git,github,html,js,kubernetes,mongodb,postman,powershell,vscode&perline=16)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=azure,bash,cs,css,cypress,docker,dotnet,git,github,html,js,kubernetes,mongodb,postman,powershell,vscode&perline=16)]()
 
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft-powerapps&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white)
+[![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft-powerapps&logoColor=white)]()
+[![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=microsoft-dynamics&logoColor=white)]()
+[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=sqlserver&logoColor=white)]()
 
 ... and much more.
 
@@ -56,8 +56,8 @@ Did you know? **I began my journey in tech at the age of 10, and my passion for 
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jboliveira&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jboliveira&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jboliveira&count_private=true&hide_border=true&show_icons=true&theme=transparent&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jboliveira&count_private=true&hide_border=true&show_icons=true&theme=transparent)</a>
 </details>
 
-Last Edited on: `16/March/2025`
+Last Edited on: `17/March/2025`
