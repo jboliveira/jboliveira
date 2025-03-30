@@ -1,6 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Jader Oliveira
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaderbuenoliveira/)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://jboliveira.medium.com/)
 [![Sessionize](https://img.shields.io/badge/-Sessionize-orange?style=for-the-badge&logo=sessionize&logoColor=white)](https://sessionize.com/jader-bueno-oliveira/)
 [![Instagram](https://img.shields.io/badge/-Instagram-aa2cc0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jbuenoliveira/)
 
